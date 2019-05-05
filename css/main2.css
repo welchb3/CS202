@@ -12,7 +12,7 @@ nav ul{
     background: var(--main-color);
 }
 nav ul li{
-   /*   float: left;
+/*   float: left;
     display: inline-block; */
     flex: 1;
     position: relative;
